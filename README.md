@@ -27,3 +27,9 @@ Autor:
 
 * **04 - Clustering Expectation-Maximization**
   * Notebook *04_ejemplo_EM.ipynb*. Implementación manual de EM para 1D. Uso de la librería SKlearn.
+  
+* **05 - Clustering Particional vs Basado en densidades: DBSCAN**
+  * Notebook *05_dbscan.ipynb*. Implementación manual de DBSCAN. Uso de la librería SKlearn. Implementación de un DBSCAN iterativo.
+  
+* **06 - Comparación de algoritmos de clustering**
+  * Notebook *06_comparacion_clustering.ipynb*. Dos ejercicios para comparar los algoritmos de clustering vistos en clase. Uso de Silhouette.
